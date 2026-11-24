@@ -31,5 +31,8 @@ python3 skills/jaic-writing/scripts/build_jaic_docx.py content.json out.docx --t
 
 The template belongs to JAIC and is not redistributed here.
 
+## License
+MIT — see [LICENSE](LICENSE). Journal templates are not included and remain the property of their journals.
+
 ## Author
 Eko Rudiawan Jamzuri — Politeknik Negeri Batam
